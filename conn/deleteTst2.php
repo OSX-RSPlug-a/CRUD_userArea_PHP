@@ -2,11 +2,11 @@
 
 include 'delete.php';
 
-$servername = "localhost";
+$servername = "";
 
-$username = "w";
+$username = "";
 
-$password = "adm@098765";
+$password = "";
 
 $dbname = "locadora";
 
