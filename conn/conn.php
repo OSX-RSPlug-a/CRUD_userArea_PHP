@@ -15,11 +15,11 @@ class Database {
 
     private static $dbName = 'locadora' ;
 
-    private static $dbHost = 'localhost' ;
+    private static $dbHost = '' ;
 
-    private static $dbUsername = 'w';
+    private static $dbUsername = '';
 
-    private static $dbUserPassword = 'adm@098765';
+    private static $dbUserPassword = '';
      
     private static $cont  = null;
      
