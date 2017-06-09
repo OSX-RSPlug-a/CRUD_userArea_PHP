@@ -1,7 +1,7 @@
 <?php
 
 /* test
-$conn=mysqli_connect("localhost","w","adm@098765","locadora");
+$conn=mysqli_connect("","","","locadora");
 
 if (mysqli_connect_errno())
   {
